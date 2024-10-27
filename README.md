@@ -44,8 +44,9 @@ world_education_bank_eda/ ├── data/ │ └── world_education_bank_dat
 
 ## Setup and Installation
 1. Clone the repository:
-   ```bash
+   `
    git clone https://github.com/yourusername/world_education_bank_eda.git
+`
 2. Install required packages:
 `
 pip install -r requirements.txt
